@@ -1,0 +1,8 @@
+
+pytesseract==0.3.1
+opencv-python ==4.1.2.30
+matplotlib==3.1.2
+ibm-watson==4.1.0
+ibm-cloud-sdk-core==1.6.0
+Flask==1.1.1
+Flask-Cors==3.0.8
